@@ -1,6 +1,7 @@
 # DataCamp
 
 Data science and analysis - Python - SQL 
+
 Courses and practices I have completed on Data Camp
 
 This repositiry is still updating...
